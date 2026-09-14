@@ -21,12 +21,11 @@ An advanced, high-performance multi-vector network stress-testing and packet inj
 
 ---
 
-### 📥 Installation & Quick Start
+## 📥 Installation & Quick Start
 
-Execute the following commands in your Termux or Linux terminal to clone and run the suite:
 
 ```bash
 pkg update && pkg install python git -y
-git clone [https://github.com/YOUR_USERNAME/Obsidian-Stressor.git](https://github.com/YOUR_USERNAME/Obsidian-Stressor.git)
-cd Obsidian-Stressor
+git clone https://github.com/AmEeR159/Obsidian-DDoS.git
+cd Obsidian-DDoS
 python3 obsidian.py
