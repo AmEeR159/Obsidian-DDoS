@@ -18,7 +18,7 @@ An advanced, high-performance multi-vector network stress-testing and packet inj
 * **Integrated Proxy Scraper:** Automated background proxy discovery and live socket validation.
 * **Real-time Monitoring Live Dashboard:** Instant feedback tracking Packets Per Second (PPS), total volume, and active error rates.
 * **Cross-Platform Compatibility:** Optimized natively for Android (Termux), Ubuntu, Debian, and Kali Linux environments.
-
+Note: If there any bugs please report it. 
 ---
 
 ## 📥 Installation & Quick Start
